@@ -1,0 +1,49 @@
+﻿h4{
+    font-family:'Times New Roman', Times, serif
+
+}
+
+.div_principal{
+
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.div_segundario{
+
+    border-radius:18%;
+    background-color:aquamarine;
+    width:600px;
+    text-align:center;
+
+
+}
+
+.caja {
+    box-sizing: border-box;
+    width: 95%;
+    border: solid #d1d4e6 2px;
+    margin: 0, 0, 2px;
+    padding: 8px;
+}
+
+.botones{
+
+    width:95%;
+    height:35px;
+    background-color:aqua;
+    padding:5px;
+
+}
+
+.h5{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    color:black;
+
+
+}
